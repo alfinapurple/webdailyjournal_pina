@@ -1,0 +1,7 @@
+.footer {
+    position: relative; /* Change from fixed to relative */
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0; /* Adjust padding as needed */
+    background-color: rgba(255, 0, 0, 0.1); /* Example for bg-danger-subtle */
+}
